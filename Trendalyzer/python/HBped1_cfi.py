@@ -1,0 +1,17 @@
+gsel = 1
+historangeLHBHE = 0
+historangeRHBHE = 1000
+numberofbinsHBHE = 300
+historangeLHO = 0
+historangeRHO = 1000
+numberofbinsHO = 300
+historangeLHF = 0
+historangeRHF = 1000
+numberofbinsHF = 300
+fitPeaks = True
+processHO = False
+processHB = True
+processHE = False
+processHF = False
+skipevents = 4000
+maxevents = 1000

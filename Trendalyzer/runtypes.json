@@ -1,0 +1,80 @@
+{ "runtypes": [
+	{
+               "HBHE_led": {
+               "runnumber": [333126, 333269, 333300],
+                "eventnumber": 1000,
+                "masks": ["HF","HO","Laser"]
+                          }
+	},
+	{
+               "HF_led": {
+               "runnumber": [333022, 333128, 333208, 333469],
+               "eventnumber": 2000,
+               "masks": ["HO","Laser","HBHE"]
+                         }
+	},
+	{
+               "HBHE_led-ped-Gsel-bv-sequence": {
+               "runnumber": [333127, 333205, 333266, 333273],
+               "eventnumber": 11000,
+               "masks": ["HF", "HO", "Laser"]
+                         }
+	},
+	{
+               "HO_ped": {
+               "runnumber": [333135, 333159, 333176, 333206, 333267, 333302, 333356, 333404, 333463],
+               "eventnumber": 2000,
+               "masks": ["HBHE", "HF"]
+                         }
+	},
+	{
+               "HF_ped": {
+               "runnumber": [333132, 333212],
+               "eventnumber": 2000,
+               "masks": ["HBHE", "HO"]
+                         }
+	},
+	{
+                "HBHE_ped": {
+                "runnumber": [333271, 333299],
+                "eventnumber": 1000,
+                "masks": ["HO", "HF", "Laser"]
+                         }
+	},
+               {
+               "HBHE_ped_Gsel0": {
+               "runnumber": [333467],
+               "eventnumber": 1000,
+               "masks": ["HF", "HO", "Laser"]
+                        }
+    },
+    {
+               "HBHE_led_Gsel0": {
+                "runnumber": [333305, 333353, 333466],
+                "eventnumber": 1000,
+                "masks": ["HF", "HO", "Laser"]
+                         }
+	},
+    {
+               "HBHE_led-low-intensity-Gsel0": {
+                "runnumber": [332935, 333273, 333303, 333352, 333468],
+                "eventnumber": 5000,
+                "masks": ["HF", "HO", "Laser"]
+                         }
+	},
+    {
+               "Multi_led-ped-Gsel-bv-sequence": {
+               "runnumber": [333158, 333174, 333357, 333405, 333464],
+               "eventnumber": 11000,
+               "masks": null
+               }
+    },
+    {
+               "Multi_LED": {
+               "runnumber": [333470],
+               "eventnumber": 2000,
+               "masks": null
+               }
+    }
+                ]
+}

@@ -1,0 +1,17 @@
+ <lib name="Spectrum"/>
+ <use name="root"/>
+ <lib name = "Gpad"/>
+ <use name="FWCore/Framework"/>
+ <use name="FWCore/PluginManager"/>
+ <use name="FWCore/ParameterSet"/>
+ <use name="FWCore/Utilities"/>
+ <use name="DataFormats/TrackReco"/>
+ <use name="DataFormats/HcalDetId"/>
+ <use name="DataFormats/HcalDigi"/>
+ <use name="EventFilter/HcalRawToDigi" />
+ <use name="DataFormats/Common"/>
+ <use name="DataFormats/FEDRawData"/>
+ <use name="CommonTools/UtilAlgos"/>
+ <use name="CalibFormats/HcalObjects"/>
+ <use name="Trends/Trendalyzer"/>
+ <flags EDM_PLUGIN="1"/>

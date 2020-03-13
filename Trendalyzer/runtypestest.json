@@ -1,0 +1,10 @@
+{ "runtypes": [
+               {
+		"HBHE_led": {
+                "runnumber": [333022, 333126, 333269, 333300],
+                "eventnumber": 1000,
+                "masks": ["HF","HO","Laser"]
+                          }
+		}
+               ]
+}
